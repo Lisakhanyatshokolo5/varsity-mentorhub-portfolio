@@ -7,15 +7,7 @@
 **Lisakhanya Tshokolo**  
 ICT Application Development Student | Frontend & Backend Developer
 
-[![Project](https://img.shields.io/badge/Project-Varsity%20MentorHub-00D9FF?style=for-the-badge)](#about-the-project)
-[![Technology](https://img.shields.io/badge/Focus-Software%20Development-7B61FF?style=for-the-badge)](#my-role-and-contribution)
-[![Methodology](https://img.shields.io/badge/Methodology-Agile-00C853?style=for-the-badge)](#3-product-backlog)
-
-*Building technology. Solving problems. Learning through collaboration.*
-
 </div>
-
----
 
 # 🧑‍💻 01 | About Me
 
@@ -42,7 +34,7 @@ My goal is to grow into a skilled software developer who can design, build, test
 
 My technical experience includes programming, web development, database concepts, application development and version control. I am continuing to strengthen these skills through academic and group projects.
 
----
+--
 
 # 🚀 02 | About the Project
 
@@ -112,19 +104,15 @@ Through Varsity MentorHub, I aim to:
 
 # 📋 04 | Agile Project Evidence
 
-This section presents the five main artefacts used to demonstrate my understanding of Agile teamwork and project management.
+## Agile Team Charter
 
----
-
-# 1. Agile Team Charter
-
-## 1.1 Purpose of the Charter
+### Purpose of the Charter
 
 The Agile Team Charter establishes the shared purpose, responsibilities, working agreements and communication practices of the Varsity MentorHub team.
 
 It provides a reference for how the team intends to work together, make decisions, manage responsibilities and improve its processes.
 
-## 1.2 Team Members and Responsibilities
+### Team Members and Responsibilities
 
 | Team Member | Role | Main Responsibilities |
 |---|---|---|
@@ -134,7 +122,7 @@ It provides a reference for how the team intends to work together, make decision
 | Avuyile Sitoyi | Analyst | Analysis, insights and requirements research. |
 | Lesego Tshabalala | Tester | Code review, debugging and quality assurance. |
 
-## 1.3 Team Working Practices
+### Team Working Practices
 
 The original charter identifies Trello as the team's Kanban tool.
 
@@ -149,25 +137,9 @@ The charter also identifies respect, transparency, accountability, trust and a l
 
 ## 1.4 Evidence
 
-**Insert your updated Agile Team Charter screenshot here.**
+///upload as pdf
 
-Save your image in the repository as:
-
-`assets/images/agile-team-charter.png`
-
-![Varsity MentorHub Agile Team Charter](assets/images/agile-team-charter.png)
-
-*Figure 1: Agile Team Charter documenting team responsibilities, working practices and shared expectations.*
-
-## 1.5 Evidence Explanation
-
-The Agile Team Charter demonstrates how the team establishes a common understanding of the project's purpose and the responsibilities of individual members.
-
-The defined roles help distinguish product ownership, Agile coordination, development, analysis and testing responsibilities. The working agreements and communication practices provide guidance for collaboration and resolving challenges.
-
-The charter also establishes a basis for reviewing how the team works and identifying opportunities for improvement.
-
-## 1.6 Personal Reflection
+## Reflection
 
 Reviewing the Agile Team Charter has helped me understand why a development team needs clearly defined responsibilities and shared expectations.
 
@@ -181,31 +153,25 @@ This has reinforced the importance of accountability, communication and collabor
 
 # 2. User Stories and Tasks
 
-## 2.1 Purpose of User Stories
+## Example User Stories
 
-User stories describe application requirements from the perspective of the people who will use the product.
+| ID | Example User Story |
+|---|---|
+| US01 | As a student, I want to create an account so that I can access the platform. |
+| US02 | As a student, I want to find available mentors so that I can identify someone who can help me academically. |
+| US03 | As a student, I want to view mentor information so that I can make an informed choice. |
+| US04 | As a mentor, I want to provide information about my expertise so that students can understand the subjects I can support. |
+| US05 | As a student, I want to connect with a suitable mentor so that I can receive academic guidance. |
+|US07| As a Student or Tutor, I want to register an account and log in securely, so that I can access my personalized Varsity MentorHub dashboard.|
+|US08|  As a Student or Tutor, I want to register an account and log in securely, so that I can access my personalized Varsity MentorHub dashboard.|
+|US09| As a Student or Tutor, I want to register an account and log in securely, so that I can access my personalized Varsity MentorHub dashboard.|
+|US10| As a Tutor, I want to create and update my public profile, so that students can view my qualifications, hourly rates, and subject expertise.|
+|US11| As a Student, I want to search for tutors by subject and book available session slots, so that I can reserve dedicated study time.|
+|US12| As a Student or Tutor, I want to send direct messages and receive booking alerts, so that I stay informed about scheduled sessions.|
+|US13| As a Quality Assurance Team, I want to conduct end-to-end testing across all user journeys, so that critical bugs are triaged and resolved before release.|
+|US14| As a Project Team, I want to optimize application performance and deliver our final presentation, so that the project successfully meets all academic standards.|
 
-They help the development team understand what users need and why a particular feature is valuable.
-
-A common user-story format is:
-
-> As a [type of user], I want [a capability], so that [a benefit].
-
-Tasks can then be created to break down the work required to implement a user story.
-
-## 2.2 Example User Stories
-
-The following examples illustrate possible requirements for a student mentorship platform. They should be checked against the team's actual approved user stories before being presented as official project requirements.
-
-| ID | Example User Story | Purpose |
-|---|---|---|
-| US01 | As a student, I want to create an account so that I can access the platform. | Supports user registration. |
-| US02 | As a student, I want to find available mentors so that I can identify someone who can help me academically. | Supports mentor discovery. |
-| US03 | As a student, I want to view mentor information so that I can make an informed choice. | Helps students evaluate potential mentors. |
-| US04 | As a mentor, I want to provide information about my expertise so that students can understand the subjects I can support. | Supports mentor profiles. |
-| US05 | As a student, I want to connect with a suitable mentor so that I can receive academic guidance. | Supports the mentorship process. |
-
-## 2.3 Breaking Stories into Tasks
+## Breaking Stories into Tasks
 
 A user story can be divided into smaller development tasks.
 
@@ -218,30 +184,17 @@ For example, if user registration is included in the approved project requiremen
 5. Validate the submitted information.
 6. Test the registration process.
 7. Document the results.
+8. Research and outline the core market problem statement
+9. Draft the business case document
+10. Redefine and refine the problem statement with team input
+11. Review business case with supervisor/team for feedback
+12. Finalize and submit business case document
 
-The actual tasks should follow the team's requirements and assigned responsibilities.
-
-## 2.4 Evidence
+## Evidence
 
 **Insert a screenshot of your team's actual user stories and tasks here.**
 
-Save your image as:
-
-`assets/images/user-stories.png`
-
-![Varsity MentorHub User Stories](assets/images/user-stories.png)
-
-*Figure 2: Evidence of the team's user stories and associated tasks.*
-
-## 2.5 Evidence Explanation
-
-User stories help translate user needs into requirements that the development team can understand and implement.
-
-Breaking stories into smaller tasks makes the work easier to plan, assign and monitor. It also allows the team to identify dependencies and understand what needs to be completed before a feature can be considered finished.
-
-For developers, user stories provide context for implementation by explaining the intended user and the value of the requested functionality.
-
-## 2.6 Personal Reflection
+## Reflection
 
 Working with user stories has helped me understand the importance of identifying the purpose of a feature before implementing it.
 
@@ -255,35 +208,11 @@ In future development work, I want to improve how I connect technical tasks to u
 
 # 3. Product Backlog
 
-## 3.1 Purpose of the Product Backlog
+## Evidence
 
-The Product Backlog is used to organise the work required for Varsity MentorHub.
+/// Save your Trello screenshot
 
-It provides a place for the team to record, review and prioritise work according to project requirements and objectives.
-
-Our team uses Trello to visualise project activities and monitor their status.
-
-## 3.2 Evidence
-
-Save your Trello screenshot in the repository as:
-
-`assets/images/product-backlog.png`
-
-![Varsity MentorHub Trello Product Backlog](assets/images/product-backlog.png)
-
-*Figure 3: Trello board showing the organisation and progress of Varsity MentorHub project activities.*
-
-## 3.3 Evidence Explanation
-
-The Trello board displays separate lists for Product Backlog, In Progress and Completed.
-
-The screenshot shows completed activities, including Business Case & Problem Definition, Marketing Strategy and Documentation. It also shows Sprint 13: Ratings & Integration as an activity in progress, with a checklist indicator of 0/5.
-
-The completed sprint cards and their checklist indicators provide a visual overview of recorded progress. Team-member avatars are also displayed on the cards, providing an indication of team participation.
-
-The screenshot captures the team's task-tracking approach at a particular point in time. The empty Product Backlog list in this view means that the screenshot alone does not demonstrate the full set of outstanding backlog items.
-
-## 3.4 Personal Reflection
+## Reflection
 
 Using Trello as part of the project has helped me understand how a visual task board can support planning, coordination and progress tracking.
 
@@ -297,37 +226,11 @@ This experience has reinforced the importance of keeping project information acc
 
 # 4. Sprint Backlog
 
-## 4.1 Purpose of the Sprint Backlog
-
-The Sprint Backlog identifies the work selected for a particular sprint and helps the team monitor progress towards its agreed sprint objective.
-
-It provides visibility into the tasks the team intends to complete during the sprint.
-
-A well-maintained sprint backlog should make it possible to understand the planned work, its current status and the progress made towards completion.
-
-## 4.2 Evidence
+## Evidence
 
 **Insert a screenshot of your team's actual Sprint Backlog here.**
 
-Save the image as:
-
-`assets/images/sprint-backlog.png`
-
-![Varsity MentorHub Sprint Backlog](assets/images/sprint-backlog.png)
-
-*Figure 4: Trello evidence of sprint planning and task progress.*
-
-## 4.3 Evidence Explanation
-
-The Sprint Backlog should demonstrate how the team organises and tracks work within an individual sprint.
-
-When reviewing the board, the team can identify tasks that have been completed, tasks that remain in progress and work that may require further attention.
-
-This supports communication and makes it easier to discuss progress during stand-ups and sprint reviews.
-
-For a development project, sprint planning can also help team members coordinate work across frontend development, backend implementation, analysis and testing.
-
-## 4.4 Personal Reflection
+## Reflection
 
 The Sprint Backlog has helped me understand the importance of planning development work within a defined period.
 
@@ -341,37 +244,11 @@ This has helped me recognise the value of breaking development activities into m
 
 # 5. Agile Logbook
 
-## 5.1 Purpose of the Agile Logbook
-
-The Agile Logbook records project activities, progress, challenges, decisions and lessons learned during development.
-
-It can help the team reflect on how the project is progressing and identify improvements for future work.
-
-Unlike a task board, which primarily communicates the status of work, a logbook can provide additional context about what happened, why decisions were made and what the team learned.
-
-## 5.2 Evidence
+## Evidence
 
 **Insert a screenshot or extract from your actual Agile Logbook here.**
 
-Save the image as:
-
-`assets/images/agile-logbook.png`
-
-![Varsity MentorHub Agile Logbook](assets/images/agile-logbook.png)
-
-*Figure 5: Agile Logbook evidence documenting project activities and reflection.*
-
-## 5.3 Evidence Explanation
-
-The Agile Logbook should provide evidence of the team's development journey.
-
-Depending on the actual entries, it may document work completed, challenges encountered, decisions made, progress against planned activities and lessons learned.
-
-This record can help the team understand how its approach changes throughout the project and provide supporting evidence for evaluating its progress.
-
-The logbook is particularly useful when reviewing how the team responded to problems and what improvements could be made in future activities.
-
-## 5.4 Personal Reflection
+## Reflection
 
 The Agile Logbook has helped me recognise the importance of recording project progress rather than relying only on memory.
 
@@ -383,7 +260,7 @@ I have also learned that reflection is most valuable when it is supported by spe
 
 ---
 
-# 🎯 05 | Overall Project Reflection
+# Overall Project Reflection
 
 Participating in Varsity MentorHub has helped me connect my ICT Application Development studies with the organisation and collaboration required in a software development project.
 
@@ -401,45 +278,9 @@ Going forward, I want to continue improving my programming skills, technical pro
 
 Overall, Varsity MentorHub represents an opportunity for me to develop as a software developer while learning how collaborative project practices support the delivery of an application.
 
----
-
-# 📌 06 | Key Takeaways
-
-Through this project, I have developed a stronger understanding of:
-
-- **Agile teamwork:** Why clear responsibilities and communication matter.
-- **Requirements:** How user stories help explain the purpose of application features.
-- **Task management:** How backlogs support planning and progress tracking.
-- **Sprint planning:** How work can be organised into manageable activities.
-- **Documentation:** Why project records provide evidence of progress and decisions.
-- **Reflection:** How evaluating experiences can identify opportunities for improvement.
-- **Software development:** How technical contributions fit into a larger team project.
-
----
-
-# 🔗 07 | Portfolio Navigation
-
-| Section | Description |
-|---|---|
-| About Me | My background and technical interests. |
-| About the Project | The purpose and objectives of Varsity MentorHub. |
-| My Role | My responsibilities as a frontend and backend developer. |
-| Agile Team Charter | Team purpose, roles and working agreements. |
-| User Stories and Tasks | Requirements and task decomposition. |
-| Product Backlog | Organisation and prioritisation of project work. |
-| Sprint Backlog | Planning and monitoring sprint activities. |
-| Agile Logbook | Project progress and learning records. |
-| Overall Reflection | My learning and development throughout the project. |
 
 ---
 
 <div align="center">
-
-### 💻 CONTINUOUS LEARNING. COLLABORATIVE DEVELOPMENT. MEANINGFUL SOLUTIONS.
-
-**Lisakhanya Tshokolo**  
-ICT Application Development Student
-
-*Varsity MentorHub | Project Presentation 3*
 
 </div>
