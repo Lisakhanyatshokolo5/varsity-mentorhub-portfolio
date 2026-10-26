@@ -1,42 +1,6 @@
-<div align="center">
-
 # 💻 VARSITY MENTORHUB
 
-### DIGITAL PORTFOLIO | PROJECT PRESENTATION 3
-
-**Lisakhanya Tshokolo**  
-ICT Application Development Student | Frontend & Backend Developer
-
-</div>
-
-# 🧑‍💻 01 | About Me
-
-Hello! My name is **Lisakhanya Tshokolo**, and I am an ICT Application Development student with an interest in software development, application design and problem-solving.
-
-Through my studies, I have been developing my technical knowledge and applying it to projects that require planning, teamwork, programming and critical thinking.
-
-My goal is to grow into a skilled software developer who can design, build, test and maintain applications that solve real-world problems.
-
-### My Technical Skills
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-My technical experience includes programming, web development, database concepts, application development and version control. I am continuing to strengthen these skills through academic and group projects.
-
---
-
-# 🚀 02 | About the Project
+# 🚀 About the Project
 
 ## Varsity MentorHub
 
@@ -66,7 +30,7 @@ These artefacts help document the team's planning, responsibilities and progress
 
 ---
 
-# 👩🏽‍💻 03 | My Role and Contribution
+# 👩🏽‍💻 My Role and Contribution
 
 My role in Varsity MentorHub is **frontend and backend developer**.
 
@@ -102,7 +66,7 @@ Through Varsity MentorHub, I aim to:
 
 ---
 
-# 📋 04 | Agile Project Evidence
+# 📋 Agile Project Evidence
 
 ## Agile Team Charter
 
@@ -151,7 +115,7 @@ This has reinforced the importance of accountability, communication and collabor
 
 ---
 
-# 2. User Stories and Tasks
+# User Stories and Tasks
 
 ## Example User Stories
 
@@ -206,7 +170,7 @@ In future development work, I want to improve how I connect technical tasks to u
 
 ---
 
-# 3. Product Backlog
+# Product Backlog
 
 ## Evidence
 
@@ -224,7 +188,7 @@ This experience has reinforced the importance of keeping project information acc
 
 ---
 
-# 4. Sprint Backlog
+# Sprint Backlog
 
 ## Evidence
 
@@ -242,7 +206,7 @@ This has helped me recognise the value of breaking development activities into m
 
 ---
 
-# 5. Agile Logbook
+# Agile Logbook
 
 ## Evidence
 
