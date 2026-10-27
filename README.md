@@ -1,158 +1,590 @@
-# 💻 VARSITY MENTORHUB
 
-# 🚀 About the Project
-## Varsity MentorHub
+<link rel="stylesheet" href="style.css">
 
-Varsity MentorHub is a student mentorship project intended to connect students who need academic guidance with mentors who can support their learning.
-University students may struggle with difficult academic concepts or lack access to suitable mentorship. Varsity MentorHub aims to address this challenge by providing a platform through which students can connect with people who can offer relevant academic support.
+<div class="hero-intro">
 
-### Project Vision
-To make academic mentorship more accessible and help students find the guidance they need to develop their knowledge and improve their academic experience.
+<p class="eyebrow">✦ CPUT · INFORMATION TECHNOLOGY ✦</p>
+
+<h1>Lisakhanya Tshokolo</h1>
+
+<p class="hero-subtitle">ICT Application Development Student</p>
+
+<p class="hero-description">
+Aspiring software developer passionate about building useful digital
+solutions, developing technical skills and creating meaningful user
+experiences through technology.
+</p>
+
+<p class="hero-links">
+<a href="#about-me">About Me</a> ·
+<a href="#technical-skills">Skills</a> ·
+<a href="#work-experience">Experience</a> ·
+<a href="#varsity-mentorhub">Featured Project</a> ·
+<a href="#agile-evidence">Agile Evidence</a> ·
+<a href="#contact">Contact</a>
+</p>
+
+</div>
+
+---
+
+## About Me
+
+<a id="about-me"></a>
+
+I am an Information Technology student specialising in Application Development at Cape Peninsula University of Technology (CPUT). I am interested in software development, web technologies, database management and creating digital solutions that address practical needs.
+
+Through my academic work, team projects and professional experience, I have developed skills in programming, problem-solving, collaboration and project planning. I continue to strengthen my technical abilities by applying what I learn to practical projects.
+
+My portfolio showcases my education, technical skills, work experience, project contributions and learning reflections. It also documents my contribution to **Varsity MentorHub**, a student mentoring platform developed using an Agile approach.
+
+## Education
+
+| Institution | Qualification | Period |
+|---|---|---|
+| Cape Peninsula University of Technology (CPUT) | Diploma in Information Technology: Application Development | 2024–Present |
+| Centre of Science and Technology | Secondary education | 2015–2019 |
+
+## Technical Skills
+
+### Programming Languages
+
+| Technology | Skills |
+|---|---|
+| Java | Object-oriented programming and application development |
+| Python | Programming fundamentals and problem-solving |
+| SQL | Database queries and data management |
+| JavaScript | Interactive web development |
+| HTML and CSS | Web structure and styling |
+| PHP | Server-side web development |
+
+### Frameworks, Libraries and Technologies
+
+| Technology | Area |
+|---|---|
+| Spring Boot | Java backend development |
+| React | Frontend development |
+| Laravel | PHP web application development |
+| JUnit | Software testing |
+| WordPress | Website development and content management |
+| Apache Derby | Database management |
+| Maven | Java project and dependency management |
+| JDBC | Java database connectivity |
+
+### Development and Design Tools
+
+Git · GitHub · Visual Studio Code · Visual Studio · IntelliJ IDEA · Eclipse · NetBeans · Figma
+
+<div class="skill-note">
+<strong>My approach:</strong> I value clean code, continuous learning,
+collaboration, maintainability and user-centred development.
+</div>
+
+## Technology Stack
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java-49364F?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/Python-B69ABF?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-49364F?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+<img src="https://img.shields.io/badge/HTML5-B69ABF?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-49364F?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/SQL-B69ABF?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/Spring_Boot-49364F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+<img src="https://img.shields.io/badge/React-B69ABF?style=for-the-badge&logo=react&logoColor=white" alt="React">
+<img src="https://img.shields.io/badge/Git-49364F?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-B69ABF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+---
+
+## Work Experience
+
+<a id="work-experience"></a>
+
+### Junior Web Developer / Digital Marketing Intern
+
+**Y Jamodien & Associates** · May 2021 – December 2022
+
+- Contributed to web development and digital marketing activities.
+- Supported the creation and maintenance of digital content.
+- Applied web technologies to support online communication and presentation.
+- Developed professional experience in working with digital tools and meeting workplace expectations.
+
+### Web Developer
+
+**Younglings Africa** · September 2020 – March 2021
+
+- Gained practical experience in web development.
+- Applied programming and web design concepts to development tasks.
+- Strengthened problem-solving and collaboration skills through practical work.
+
+### Student Intern
+
+**CAPACITI** · March 2020 – August 2020
+
+- Developed foundational workplace and technical skills.
+- Participated in learning activities focused on professional and digital development.
+- Built experience in collaboration, communication and continued learning.
+
+---
+
+## Featured Project: Varsity MentorHub
+
+<a id="varsity-mentorhub"></a>
+
+<div class="project-highlight">
+
+<p class="eyebrow">ACADEMIC TEAM PROJECT · AGILE DEVELOPMENT</p>
+
+<h3>Varsity MentorHub</h3>
+
+Varsity MentorHub is a student mentoring platform designed to connect
+students with mentors. The project aims to make it easier for students
+to access guidance, support and opportunities for personal and academic
+development.
+
+</div>
 
 ### Project Objectives
-- Connect students seeking academic assistance with suitable mentors.
-- Support knowledge sharing and collaborative learning.
-- Provide a platform designed around students' mentorship needs.
-- Encourage communication and academic development.
-- Develop an application through teamwork and an organised software development process.
 
-### Project Approach
-Our team uses Agile practices and Trello to organise project activities and monitor progress.
-The project documentation includes an Agile Team Charter, user stories and tasks, product and sprint backlogs, and an Agile Logbook.
-These artefacts help document the team's planning, responsibilities and progress throughout the project.
+- Create a platform that connects students with mentors.
+- Support communication and access to mentoring opportunities.
+- Organise project requirements into manageable user stories and tasks.
+- Use Agile planning and collaboration to coordinate development work.
+- Build a solution informed by user needs and the team's project goals.
 
----
+### My Role
 
-# 👩🏽‍💻 My Role and Contribution
-My role in Varsity MentorHub is **frontend and backend developer**.
-This role connects with my ICT Application Development studies and gives me an opportunity to apply my technical knowledge within a collaborative project environment.
+**Frontend and Backend Developer**
 
-### Frontend Development
-Frontend development focuses on the parts of an application that users interact with.
-My responsibilities in this area relate to the user interface and the presentation of information. The specific features and tasks I contribute to should align with the team's agreed requirements and sprint assignments.
+My role involves contributing to both the user-facing side of the application and its underlying functionality.
 
-### Backend Development
-Backend development focuses on the application logic and the processing of information behind the user interface.
-My responsibilities in this area relate to implementing application functionality and supporting communication between the frontend and backend, according to the agreed design and requirements.
+My responsibilities and learning focus include:
 
-### Collaboration
-As a developer, I also need to communicate with other team members, understand requirements, coordinate tasks and report progress.
-I recognise that successful software development requires more than writing code. It also requires planning, communication, testing, documentation and continuous improvement.
+- Contributing to the frontend and user experience.
+- Working on backend functionality as required by the project.
+- Collaborating with team members to translate requirements into tasks.
+- Participating in Agile planning and tracking work using Trello.
+- Improving my understanding of full-stack development, teamwork and software delivery.
 
-### Personal Learning Goals
-Through Varsity MentorHub, I aim to:
-- Strengthen my frontend and backend development skills.
-- Improve my ability to interpret and implement requirements.
-- Understand how Agile practices support software development.
-- Improve communication and collaboration within a development team.
-- Learn to evaluate feedback and improve the quality of my work.
+### Tools and Ways of Working
+
+- **Methodology:** Agile
+- **Project management:** Trello
+- **Team practices:** Planning, task tracking, team communication and reflection
+- **Development focus:** Frontend and backend application development
 
 ---
 
-# 📋 Agile Project Evidence
+## Agile Project Evidence
 
-## Agile Team Charter
-### Purpose of the Charter
-The Agile Team Charter establishes the shared purpose, responsibilities, working agreements and communication practices of the Varsity MentorHub team.
-It provides a reference for how the team intends to work together, make decisions, manage responsibilities and improve its processes.
+<a id="agile-evidence"></a>
 
-### Team Members and Responsibilities
+This section presents supporting evidence of the planning and development
+activities for Varsity MentorHub. Each subsection contains project artefacts
+and screenshots relevant to the team's Agile process.
 
-| Team Member | Role | Main Responsibilities |
-|---|---|---|
-| Lisakhanya Tshokolo | Product Owner | Product review, feedback, backlog management and sprint planning. |
-| Samukelo Ndlela | Agile Lead | Sprint facilitation, progress tracking, team coordination and collaboration. |
-| Athi Sintiya | Developer | Implementing features and contributing to software development. |
-| Avuyile Sitoyi | Analyst | Analysis, insights and requirements research. |
-| Lesego Tshabalala | Tester | Code review, debugging and quality assurance. |
+### 1. Agile Team Charter
 
-### Team Working Practices
-The original charter identifies Trello as the team's Kanban tool.
-The documented ceremonies include:
-- Daily stand-ups to discuss progress and blockers.
-- Biweekly planning to discuss and prioritise work.
-- Biweekly reviews or demonstrations of completed work.
-- Weekly retrospectives to identify improvements.
+The Agile Team Charter documents the team's roles, responsibilities and
+agreed ways of working.
 
-The charter also identifies respect, transparency, accountability, trust and a learning mindset as important team values.
+**Team members and roles**
 
-## Evidence
-
-///upload as pdf
-
-## Reflection
-Varsity MentorHub is a team project aimed at connecting university students with mentorship and accessible learning resources. To work effectively towards this goal, the team needed a clear understanding of its purpose, individual responsibilities and working agreements. As the Product Owner, my responsibility was to contribute to defining the project's direction and ensuring that the team understood its objectives. We established team roles, communication channels, values and ways of working to support collaboration and accountability. When the team composition changed, the charter needed to be updated to reflect the new team structure. This experience taught me that an Agile Team Charter is important for establishing shared expectations and should be reviewed whenever team roles or project requirements change.
-
----
-
-# User Stories and Tasks
-
-## Example User Stories
-
-| ID | Example User Story |
+| Team member | Role |
 |---|---|
-| US01 | As a student, I want to create an account so that I can access the platform. |
-| US02 | As a student, I want to find available mentors so that I can identify someone who can help me academically. |
-| US03 | As a student, I want to view mentor information so that I can make an informed choice. |
-| US04 | As a mentor, I want to provide information about my expertise so that students can understand the subjects I can support. |
-| US05 | As a student, I want to connect with a suitable mentor so that I can receive academic guidance. |
-|US07| As a Student or Tutor, I want to register an account and log in securely, so that I can access my personalized Varsity MentorHub dashboard.|
-|US08|  As a Student or Tutor, I want to register an account and log in securely, so that I can access my personalized Varsity MentorHub dashboard.|
-|US09| As a Student or Tutor, I want to register an account and log in securely, so that I can access my personalized Varsity MentorHub dashboard.|
-|US10| As a Tutor, I want to create and update my public profile, so that students can view my qualifications, hourly rates, and subject expertise.|
-|US11| As a Student, I want to search for tutors by subject and book available session slots, so that I can reserve dedicated study time.|
-|US12| As a Student or Tutor, I want to send direct messages and receive booking alerts, so that I stay informed about scheduled sessions.|
-|US13| As a Quality Assurance Team, I want to conduct end-to-end testing across all user journeys, so that critical bugs are triaged and resolved before release.|
-|US14| As a Project Team, I want to optimize application performance and deliver our final presentation, so that the project successfully meets all academic standards.|
+| Lisakhanya Tshokolo | Product Owner |
+| Samukelo Ndlela | Agile Lead |
+| Athi Sintiya | Developer |
+| Avuyile Sitoyi | Analyst |
+| Lesego Tshabalala | Tester |
 
-## Breaking Stories into Tasks
-A user story can be divided into smaller development tasks.
-For example, if user registration is included in the approved project requirements, its tasks might include:
+**Team practices**
 
-1. Confirm the registration requirements.
-2. Design the registration interface.
-3. Implement the required frontend form.
-4. Implement the relevant backend functionality.
-5. Validate the submitted information.
-6. Test the registration process.
-7. Document the results.
-   
-## Evidence
+- Trello Kanban board for task organisation and progress tracking.
+- Daily stand-ups for communication and progress updates.
+- Biweekly planning and review sessions.
+- Weekly retrospectives to reflect on teamwork and improvements.
 
-**Insert a screenshot of your team's actual user stories and tasks here.**
+<div class="evidence-document">
 
-## Reflection
-Varsity MentorHub needed to address the needs of students who could benefit from mentorship and accessible learning resources. My responsibility was to help ensure that the product requirements reflected user needs and could be broken down into manageable development tasks. I considered how user stories could describe the needs of different users and explain the value they would receive from the platform. These stories could then be translated into smaller tasks to guide development and clarify the work required. Through this process, I learned that well-defined user stories help the team understand what needs to be developed and why it matters. I also recognised the importance of clear acceptance criteria to ensure that completed features meet the intended requirements.
+**Agile Team Charter — PDF**
+
+<a href="Documents/Agile Team Charter (1)(1).pdf" target="_blank">Open or download the Agile Team Charter</a>
+
+<iframe src="Documents/Agile Team Charter (1)(1).pdf" title="Agile Team Charter PDF" loading="lazy"></iframe>
+
+</div>
+
+**Reflection — STAR method**
+
+**Situation:** The team needed a shared understanding of its roles, responsibilities and working practices for Varsity MentorHub.
+
+**Task:** My responsibility as Product Owner was to help maintain a shared understanding of the project goals and the work required.
+
+**Action:** The team documented its roles and agreed on communication, planning and tracking practices. Trello was used to organise work and make task progress visible.
+
+**Result:** The charter provides a reference for team responsibilities and ways of working. It also supports accountability and collaboration throughout the project.
+
+### 2. User Stories and Tasks
+
+User stories describe functionality from the user's perspective, while tasks break the required work into smaller, manageable activities.
+
+The screenshots below provide visual evidence of the team's user story and task planning.
+
+<div class="evidence-gallery">
+
+<figure class="evidence-card">
+<a href="Documents/1 Task & User story.png" target="_blank"><img src="Documents/1 Task & User story.png" alt="User story and task evidence 1" loading="lazy"></a>
+<figcaption>Evidence 1 — User Stories and Tasks</figcaption>
+</figure>
+
+<figure class="evidence-card">
+<a href="Documents/2 Task & User story.png" target="_blank"><img src="Documents/2 Task & User story.png" alt="User story and task evidence 2" loading="lazy"></a>
+<figcaption>Evidence 2 — User Stories and Tasks</figcaption>
+</figure>
+
+<figure class="evidence-card">
+<a href="Documents/3 Task & User Story.png" target="_blank"><img src="Documents/3 Task & User Story.png" alt="User story and task evidence 3" loading="lazy"></a>
+<figcaption>Evidence 3 — User Stories and Tasks</figcaption>
+</figure>
+
+<figure class="evidence-card">
+<a href="Documents/4 Task.png" target="_blank"><img src="Documents/4 Task.png" alt="Task evidence 4" loading="lazy"></a>
+<figcaption>Evidence 4 — Task Breakdown</figcaption>
+</figure>
+
+<figure class="evidence-card">
+<a href="Documents/5 task.png" target="_blank"><img src="Documents/5 task.png" alt="Task evidence 5" loading="lazy"></a>
+<figcaption>Evidence 5 — Task Breakdown</figcaption>
+</figure>
+
+<figure class="evidence-card">
+<a href="Documents/6 task.png" target="_blank"><img src="Documents/6 task.png" alt="Task evidence 6" loading="lazy"></a>
+<figcaption>Evidence 6 — Task Breakdown</figcaption>
+</figure>
+
+<figure class="evidence-card">
+<a href="Documents/7 task.png" target="_blank"><img src="Documents/7 task.png" alt="Task evidence 7" loading="lazy"></a>
+<figcaption>Evidence 7 — Task Breakdown</figcaption>
+</figure>
+
+<figure class="evidence-card">
+<a href="Documents/8 task.png" target="_blank"><img src="Documents/8 task.png" alt="Task evidence 8" loading="lazy"></a>
+<figcaption>Evidence 8 — Task Breakdown</figcaption>
+</figure>
+
+<figure class="evidence-card">
+<a href="Documents/9 task.png" target="_blank"><img src="Documents/9 task.png" alt="Task evidence 9" loading="lazy"></a>
+<figcaption>Evidence 9 — Task Breakdown</figcaption>
+</figure>
+
+<figure class="evidence-card">
+<a href="Documents/10 task.png" target="_blank"><img src="Documents/10 task.png" alt="Task evidence 10" loading="lazy"></a>
+<figcaption>Evidence 10 — Task Breakdown</figcaption>
+</figure>
+
+<figure class="evidence-card">
+<a href="Documents/11 task.png" target="_blank"><img src="Documents/11 task.png" alt="Task evidence 11" loading="lazy"></a>
+<figcaption>Evidence 11 — Task Breakdown</figcaption>
+</figure>
+
+<figure class="evidence-card">
+<a href="Documents/12 task.png" target="_blank"><img src="Documents/12 task.png" alt="Task evidence 12" loading="lazy"></a>
+<figcaption>Evidence 12 — Task Breakdown</figcaption>
+</figure>
+
+</div>
+
+**Reflection — STAR method**
+
+**Situation:** Varsity MentorHub required its project requirements to be organised into understandable pieces of work.
+
+**Task:** The team needed to identify user needs and divide planned functionality into user stories and tasks.
+
+**Action:** User stories and associated tasks were documented to help clarify the work involved and support project planning.
+
+**Result:** The artefacts provide a record of the team's planning process and help make the intended functionality and development activities easier to review.
+
+### 3. Product Backlog
+
+The product backlog records the features and requirements identified for Varsity MentorHub. It supports the organisation and prioritisation of work.
+
+<div class="evidence-document">
+
+<a href="Documents/product backlog.png" target="_blank">
+<img src="Documents/product backlog.png" alt="Varsity MentorHub product backlog" loading="lazy">
+</a>
+
+<p class="figure-caption">Figure: Varsity MentorHub Product Backlog</p>
+
+<p><a href="Documents/product backlog.png" target="_blank">Open the full-size product backlog</a></p>
+
+</div>
+
+**Reflection — STAR method**
+
+**Situation:** The project needed a central view of the functionality and requirements to be developed.
+
+**Task:** The team needed to organise requirements so that planned work could be reviewed and prioritised.
+
+**Action:** The product backlog was documented as a reference for the planned features and requirements.
+
+**Result:** The backlog provides a consolidated view of project scope and supports discussion about which items should be addressed during development.
+
+### 4. Sprint Backlog
+
+The sprint backlog provides a view of work planned and organised for development. The following gallery presents the 15 sprint backlog screenshots supplied for this portfolio.
+
+<div class="evidence-gallery">
+
+<figure class="evidence-card">
+<a href="Documents/sprint 1.png" target="_blank"><img src="Documents/sprint 1.png" alt="Sprint backlog screenshot 1" loading="lazy"></a>
+<figcaption>Sprint Backlog — 1</figcaption>
+</figure>
+
+<figure class="evidence-card">
+<a href="Documents/sprint 2.png" target="_blank"><img src="Documents/sprint 2.png" alt="Sprint backlog screenshot 2" loading="lazy"></a>
+<figcaption>Sprint Backlog — 2</figcaption>
+</figure>
+
+<figure class="evidence-card">
+<a href="Documents/sprint 3.png" target="_blank"><img src="Documents/sprint 3.png" alt="Sprint backlog screenshot 3" loading="lazy"></a>
+<figcaption>Sprint Backlog — 3</figcaption>
+</figure>
+
+<figure class="evidence-card">
+<a href="Documents/sprint 4.png" target="_blank"><img src="Documents/sprint 4.png" alt="Sprint backlog screenshot 4" loading="lazy"></a>
+<figcaption>Sprint Backlog — 4</figcaption>
+</figure>
+
+<figure class="evidence-card">
+<a href="Documents/sprint 5.png" target="_blank"><img src="Documents/sprint 5.png" alt="Sprint backlog screenshot 5" loading="lazy"></a>
+<figcaption>Sprint Backlog — 5</figcaption>
+</figure>
+
+<figure class="evidence-card">
+<a href="Documents/sprint 6.png" target="_blank"><img src="Documents/sprint 6.png" alt="Sprint backlog screenshot 6" loading="lazy"></a>
+<figcaption>Sprint Backlog — 6</figcaption>
+</figure>
+
+<figure class="evidence-card">
+<a href="Documents/sprint 7.png" target="_blank"><img src="Documents/sprint 7.png" alt="Sprint backlog screenshot 7" loading="lazy"></a>
+<figcaption>Sprint Backlog — 7</figcaption>
+</figure>
+
+<figure class="evidence-card">
+<a href="Documents/sprint 8.png" target="_blank"><img src="Documents/sprint 8.png" alt="Sprint backlog screenshot 8" loading="lazy"></a>
+<figcaption>Sprint Backlog — 8</figcaption>
+</figure>
+
+<figure class="evidence-card">
+<a href="Documents/sprint 9.png" target="_blank"><img src="Documents/sprint 9.png" alt="Sprint backlog screenshot 9" loading="lazy"></a>
+<figcaption>Sprint Backlog — 9</figcaption>
+</figure>
+
+<figure class="evidence-card">
+<a href="Documents/sprint 10.png" target="_blank"><img src="Documents/sprint 10.png" alt="Sprint backlog screenshot 10" loading="lazy"></a>
+<figcaption>Sprint Backlog — 10</figcaption>
+</figure>
+
+<figure class="evidence-card">
+<a href="Documents/sprint 11.png" target="_blank"><img src="Documents/sprint 11.png" alt="Sprint backlog screenshot 11" loading="lazy"></a>
+<figcaption>Sprint Backlog — 11</figcaption>
+</figure>
+
+<figure class="evidence-card">
+<a href="Documents/sprint 12.png" target="_blank"><img src="Documents/sprint 12.png" alt="Sprint backlog screenshot 12" loading="lazy"></a>
+<figcaption>Sprint Backlog — 12</figcaption>
+</figure>
+
+<figure class="evidence-card">
+<a href="Documents/sprint 13.png" target="_blank"><img src="Documents/sprint 13.png" alt="Sprint backlog screenshot 13" loading="lazy"></a>
+<figcaption>Sprint Backlog — 13</figcaption>
+</figure>
+
+<figure class="evidence-card">
+<a href="Documents/sprint 14.png" target="_blank"><img src="Documents/sprint 14.png" alt="Sprint backlog screenshot 14" loading="lazy"></a>
+<figcaption>Sprint Backlog — 14</figcaption>
+</figure>
+
+<figure class="evidence-card">
+<a href="Documents/Sprint 15.png" target="_blank"><img src="Documents/Sprint 15.png" alt="Sprint backlog screenshot 15" loading="lazy"></a>
+<figcaption>Sprint Backlog — 15</figcaption>
+</figure>
+
+</div>
+
+**Reflection — STAR method**
+
+**Situation:** The project required development activities to be organised and tracked.
+
+**Task:** The team needed a way to identify the work planned for its development activities and monitor tasks.
+
+**Action:** Sprint backlog evidence was maintained to document the team's planned work.
+
+**Result:** The screenshots provide a visual record of backlog planning and help demonstrate how the project work was organised.
+
+### 5. Agile Logbook
+
+The logbooks document project activities, progress and learning over the relevant reporting periods.
+
+<div class="evidence-document">
+
+<h3>Logbook 1</h3>
+
+<a href="Documents/Logbook 1.pdf" target="_blank">Open or download Logbook 1</a>
+
+<iframe src="Documents/Logbook 1.pdf" title="Agile Logbook 1" loading="lazy"></iframe>
+
+</div>
+
+<div class="evidence-document">
+
+<h3>Logbook 2</h3>
+
+<a href="Documents/Logbook 2.pdf" target="_blank">Open or download Logbook 2</a>
+
+<iframe src="Documents/Logbook 2.pdf" title="Agile Logbook 2" loading="lazy"></iframe>
+
+</div>
+
+<div class="evidence-document">
+
+<h3>Logbook 3</h3>
+
+<a href="Documents/Logbook 3.pdf" target="_blank">Open or download Logbook 3</a>
+
+<iframe src="Documents/Logbook 3.pdf" title="Agile Logbook 3" loading="lazy"></iframe>
+
+</div>
+
+<div class="evidence-document">
+
+<h3>Logbook 4</h3>
+
+<a href="Documents/Logbook 4.pdf" target="_blank">Open or download Logbook 4</a>
+
+<iframe src="Documents/Logbook 4.pdf" title="Agile Logbook 4" loading="lazy"></iframe>
+
+</div>
+
+**Reflection — STAR method**
+
+**Situation:** The project required ongoing documentation of work and progress.
+
+**Task:** The logbooks needed to provide a record of activities and learning during the project.
+
+**Action:** Logbook documents were compiled to capture the relevant reporting periods and project activities.
+
+**Result:** The logbooks provide supporting evidence of project engagement and help document progress throughout the work.
 
 ---
 
-# Product Backlog
-## Evidence
+## Mock Interview
 
-/// Save your Trello screenshot
+The mock interview forms part of my professional development. It provides an opportunity to practise communicating my skills, experience and career interests.
 
-## Reflection
-During the development of Varsity MentorHub, the team had several project activities and potential features that needed to be organised and prioritised. My responsibility was to contribute to product planning and ensure that the work remained aligned with the project's objectives. The team used a Trello board with columns such as Product Backlog, In Progress and Completed to track activities and monitor progress. This visual approach helped make the status of project work easier to understand. Through this experience, I learned that a product backlog supports effective planning by helping the team identify and prioritise important work. I also realised that the backlog must be reviewed and updated regularly to ensure that outstanding tasks remain visible and relevant.
+<video controls preload="metadata">
+  <source src="Lisakhanya Tshokolo interview.mp4" type="video/mp4">
+  Your browser does not support embedded video. <a href="Lisakhanya%20Tshokolo%20interview.mp4">Open the mock interview video</a>.
+</video>
+
+**Reflection — STAR method**
+
+**Situation:** Interview preparation is important for communicating technical skills and professional experience clearly.
+
+**Task:** I needed to practise presenting my background and responding to interview questions.
+
+**Action:** I participated in a mock interview and used the experience to reflect on my communication and presentation.
+
+**Result:** The exercise provides an opportunity to identify areas for improvement and build confidence for future professional interviews.
 
 ---
 
-# Sprint Backlog
+## Reflections on Learning
 
-## Evidence
+<a id="reflections"></a>
 
-**Insert a screenshot of your team's actual Sprint Backlog here.**
+### Reflection 1: Coding in Markdown
 
-## Reflection
-The Varsity MentorHub team needed to organise selected project activities into manageable tasks that could be addressed during a sprint. My responsibility was to contribute to my assigned work and monitor progress towards the team's objectives. I used the team's task-tracking approach to understand outstanding activities and follow the progress of the work. Breaking larger activities into smaller tasks made it easier to identify what needed to be done and recognise work that was still incomplete. This experience helped me understand the importance of setting realistic sprint goals, communicating progress and identifying potential delays early. I learned that a well-managed sprint backlog helps the team stay organised and focused on completing its planned work.
+**Situation:** I needed to use Markdown and HTML to structure my portfolio content.
+
+**Task:** My task was to present my information in a readable and organised format.
+
+**Action:** I used headings, tables, lists, links and embedded media to structure the content.
+
+**Result:** I gained experience in presenting technical and academic information clearly. I also learned that accurate file paths and consistent formatting are important when publishing a website.
+
+### Reflection 2: Mock Interview
+
+**Situation:** Professional communication is an important part of preparing for a career in IT.
+
+**Task:** I needed to practise explaining my background and skills.
+
+**Action:** I took part in a mock interview and reflected on how I communicate my experience.
+
+**Result:** The activity helped me recognise the importance of preparation, clear communication and continuous improvement.
+
+### Reflection 3: GitHub Pages
+
+**Situation:** I needed to publish my portfolio online so it could be accessed and reviewed.
+
+**Task:** My task was to organise the portfolio files and publish the website using GitHub Pages.
+
+**Action:** I used a GitHub repository to manage the portfolio content and supporting files.
+
+**Result:** I developed practical experience with repository organisation and website publishing. I also learned to check links, filenames and the published version to make sure the evidence is accessible.
 
 ---
 
-# Agile Logbook
-## Evidence
+## Professional References
 
-**Insert a screenshot or extract from your actual Agile Logbook here.**
+### Fiona Tabraham
 
-## Reflection
-During the Varsity MentorHub project, it was important to keep track of activities, progress, challenges and decisions throughout the development process. My responsibility was to record relevant project work and reflect on my contributions and the team's progress. The Agile logbook provided a way to document activities, outstanding tasks, challenges encountered and lessons learned. Maintaining these records helped demonstrate how the project progressed over time and provided information for reflection. Through this experience, I learned that consistent documentation supports accountability and makes it easier to evaluate decisions and identify areas for improvement. In future projects, I would ensure that the logbook is updated regularly rather than leaving documentation until the end of a sprint.
+**Position:** CEO, CAPACITI
+
+**Contact:** Use the reference contact details supplied in your original portfolio.
+
+### Yumna Jamodien
+
+**Position:** CEO, Y Jamodien & Associates
+
+**Contact:** Use the reference contact details supplied in your original portfolio.
+
+*Please ensure you have permission to publish referees' personal contact information before displaying it publicly.*
+
+---
+
+## Contact
+
+<a id="contact"></a>
+
+I welcome opportunities to learn, collaborate and contribute to meaningful software development projects.
+
+- **Email:** [220239215@mycput.ac.za](mailto:220239215@mycput.ac.za)
+- **LinkedIn:** [View my LinkedIn profile](https://linkedin.com/in/lisakhanya-tshokolo-5157581a4/)
+- **GitHub:** [View my GitHub profile](https://github.com/LisakhanyaTsho5)
+- **X:** [@LisakhanyaTsho5](https://x.com/LisakhanyaTsho5)
+
+<div class="contact-card">
+
+<p><strong>Let's connect.</strong></p>
+
+<p>Interested in software development, collaboration and continuous learning?</p>
+
+<p><a href="mailto:220239215@mycput.ac.za">Send me an email</a></p>
+
+</div>
+
+---
+
+<div class="portfolio-footer">
+
+<p>Designed and developed by Lisakhanya Tshokolo</p>
+
+<p>ICT Application Development · Cape Peninsula University of Technology</p>
+
+<p>© 2026 Lisakhanya Tshokolo</p>
 
 </div>
